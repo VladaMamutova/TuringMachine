@@ -1,0 +1,9 @@
+﻿abc
+__ a_ b_ c_ aa ba ca ab bb cb ac bc cc
+3__LL 1a_RE 1b_RE 1c_RE - - - - - - - - -
+2__LL 0aaRR 0baRR 0caRR - - - - - - - - -
+z-_EE 2__LE 2__LE 2__LE 2__LL 2__LL 2__LL - - - - - -
+z+_EE 4a_LE 4b_LE 4c_LE 3_aLL 3_bLL 3_cLL - - - - - -
+5__RR 4a_LE 4b_LE 4c_LE - - - - - - - - -
+z+_EE - - - 5__RR 6__RR 6__RR 6__RR 5__RR 6__RR 6__RR 6__RR 5__RR
+z-_EE - - - 6__RR 6__RR 6__RR 6__RR 6__RR 6__RR 6__RR 6__RR 6__RR
